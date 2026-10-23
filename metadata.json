@@ -1,0 +1,6 @@
+{
+  "name": "ShopeeBooster AI - 1-Klik Audit & Solusi Ribuan Orderan",
+  "description": "Tool audit produk Shopee 1 kali klik via link produk untuk deteksi kesalahan judul, foto, SEO, harga, voucher, deskripsi, dan formula otomatis tembus ribuan orderan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
